@@ -12,7 +12,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #c08483c8; /*corpo*/
+    background: #dfa09fcf; /*corpo*/
 }
 
 .container {
@@ -52,7 +52,7 @@ body {
 }
 
 .form-header h1 {
-    -webkit-text-stroke-color: #b54bd2a3; /*titulo principal*/
+    -webkit-text-stroke-color: #b54bd2b3; /*titulo principal*/
     -webkit-text-fill-color: #fcfafa;
 }
 
